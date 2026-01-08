@@ -4,3 +4,6 @@ outputs
 plan_outputs
 data
 __MACOSX
+
+robust_wm/
+.python-version
